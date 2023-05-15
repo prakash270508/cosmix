@@ -1,0 +1,41 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardStyling {
+  margin-bottom: 10px;
+}
+
+.cardHeaderStyling {
+  color: #fff;
+  background-color: #4b494ada;
+  border-radius: 6px;
+  padding: 0 10px;
+}
+
+.accordianContainer {
+  margin-top: 20px;
+}
+
+.matterDiv {
+  margin: auto 0;
+}
+
+.matter {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.matter > a {
+  color: #fff;
+}
+
+.plus {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.card-body {
+  text-align: left;
+}

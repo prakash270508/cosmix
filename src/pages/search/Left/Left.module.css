@@ -1,0 +1,12 @@
+.container{
+    height: 100%;
+    background-color: rgba(128, 128, 128, 0.114);
+    border-right: 2px solid rgba(128, 128, 128, 0.2);
+}
+
+.header{
+    font-weight: 700;
+    padding-top: 20px;
+    color: #4b494a;
+}
+

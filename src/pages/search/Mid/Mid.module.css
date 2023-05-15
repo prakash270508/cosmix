@@ -1,0 +1,16 @@
+.container{
+    padding: 20px;
+    height: 100vh;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+}
+
+.container::-webkit-scrollbar {
+    display: none;
+}
+
+.regret{
+    text-align: center;
+    color: #4b494a7d;
+}
